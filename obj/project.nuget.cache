@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yTwCMqFWQF2dizk56KtmVAsKt/8sBSuTFwkrdOU3rmk+Y6flbdL6BJnihBZUn0EFLhppol8mICgzB99U/IW52w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\ChangeNetwork\\ChangeNetwork.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eren.salihler\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
+    "C:\\Users\\eren.salihler\\.nuget\\packages\\system.management\\6.0.0\\system.management.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
