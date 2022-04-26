@@ -1,0 +1,2 @@
+C:\Users\erens\OneDrive\Masaüstü\Projects\.Net Core\ChangeNetwork\bin\Debug\net6.0\win-x64\publish\ChangeNetwork.pdb
+C:\Users\erens\OneDrive\Masaüstü\Projects\.Net Core\ChangeNetwork\bin\Debug\net6.0\win-x64\publish\ChangeNetwork.exe

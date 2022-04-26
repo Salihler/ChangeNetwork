@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "30TdxWbIyA8IcHkSQxdEj5a6+bfUyny+OXxo6OsomeHgl0zyNecc66c0BAIzKnKQMp8j1qiCvyt2P2yH1vR+lQ==",
+  "dgSpecHash": "S8kWBvWZKMP/jaeYYwQARQfZzArxIqa6GXetsFjXSlKtPtEWW9HiEMGe0hDEVy+yQApZq6O47uD82RlTg8BmIw==",
   "success": true,
   "projectFilePath": "C:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\.Net Core\\ChangeNetwork\\ChangeNetwork.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\erens\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
-    "C:\\Users\\erens\\.nuget\\packages\\system.management\\6.0.0\\system.management.6.0.0.nupkg.sha512"
+    "C:\\Users\\erens\\.nuget\\packages\\system.management\\6.0.0\\system.management.6.0.0.nupkg.sha512",
+    "C:\\Users\\erens\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.3\\microsoft.netcore.app.runtime.win-x64.6.0.3.nupkg.sha512",
+    "C:\\Users\\erens\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.3\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.3.nupkg.sha512",
+    "C:\\Users\\erens\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.3\\microsoft.aspnetcore.app.runtime.win-x64.6.0.3.nupkg.sha512"
   ],
   "logs": []
 }
