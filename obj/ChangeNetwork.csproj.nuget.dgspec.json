@@ -1,27 +1,29 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\.Net Core\\ChangeNetwork\\ChangeNetwork.csproj": {}
+    "C:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\ChangeNetwork\\ChangeNetwork.csproj": {}
   },
   "projects": {
-    "C:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\.Net Core\\ChangeNetwork\\ChangeNetwork.csproj": {
+    "C:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\ChangeNetwork\\ChangeNetwork.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\.Net Core\\ChangeNetwork\\ChangeNetwork.csproj",
+        "projectUniqueName": "C:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\ChangeNetwork\\ChangeNetwork.csproj",
         "projectName": "ChangeNetwork",
-        "projectPath": "C:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\.Net Core\\ChangeNetwork\\ChangeNetwork.csproj",
-        "packagesPath": "C:\\Users\\erens\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\.Net Core\\ChangeNetwork\\obj\\",
+        "projectPath": "C:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\ChangeNetwork\\ChangeNetwork.csproj",
+        "packagesPath": "C:\\Users\\eren.salihler\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\ChangeNetwork\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\erens\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\eren.salihler\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -58,6 +60,10 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
+              "version": "[6.0.3, 6.0.3]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Crossgen2.win-x64",
               "version": "[6.0.3, 6.0.3]"
             },
             {
