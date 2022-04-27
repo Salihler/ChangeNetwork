@@ -1,0 +1,2 @@
+C:\Users\eren.salihler\Desktop\projects\.NET CORE\ChangeNetwork\bin\Release\net6.0\win-x64\publish\ChangeNetwork.pdb
+C:\Users\eren.salihler\Desktop\projects\.NET CORE\ChangeNetwork\bin\Release\net6.0\win-x64\publish\ChangeNetwork.exe
