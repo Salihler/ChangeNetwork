@@ -26,7 +26,7 @@ Go to the project directory
   cd ChangeNetwork
 ```
 
-Start the server
+Run program
 
 ```bash
   dotnet run
