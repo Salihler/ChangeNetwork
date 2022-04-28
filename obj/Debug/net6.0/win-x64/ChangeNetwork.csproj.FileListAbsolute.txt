@@ -238,10 +238,6 @@ C:\Users\erens\OneDrive\Masaüstü\Projects\.Net Core\ChangeNetwork\obj\Debug\ne
 C:\Users\erens\OneDrive\Masaüstü\Projects\.Net Core\ChangeNetwork\obj\Debug\net6.0\win-x64\ChangeNetwork.pdb
 C:\Users\erens\OneDrive\Masaüstü\Projects\.Net Core\ChangeNetwork\obj\Debug\net6.0\win-x64\ChangeNetwork.genruntimeconfig.cache
 C:\Users\erens\OneDrive\Masaüstü\Projects\.Net Core\ChangeNetwork\obj\Debug\net6.0\win-x64\ref\ChangeNetwork.dll
-C:\Users\eren.salihler\Desktop\projects\.NET CORE\ChangeNetwork\obj\Debug\net6.0\win-x64\ChangeNetwork.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\eren.salihler\Desktop\projects\.NET CORE\ChangeNetwork\obj\Debug\net6.0\win-x64\ChangeNetwork.AssemblyInfoInputs.cache
-C:\Users\eren.salihler\Desktop\projects\.NET CORE\ChangeNetwork\obj\Debug\net6.0\win-x64\ChangeNetwork.AssemblyInfo.cs
-C:\Users\eren.salihler\Desktop\projects\.NET CORE\ChangeNetwork\obj\Debug\net6.0\win-x64\ChangeNetwork.csproj.CoreCompileInputs.cache
 C:\Users\eren.salihler\Desktop\projects\.NET CORE\ChangeNetwork\bin\Debug\net6.0\win-x64\ChangeNetwork.exe
 C:\Users\eren.salihler\Desktop\projects\.NET CORE\ChangeNetwork\bin\Debug\net6.0\win-x64\ChangeNetwork.deps.json
 C:\Users\eren.salihler\Desktop\projects\.NET CORE\ChangeNetwork\bin\Debug\net6.0\win-x64\ChangeNetwork.runtimeconfig.json
@@ -471,9 +467,14 @@ C:\Users\eren.salihler\Desktop\projects\.NET CORE\ChangeNetwork\bin\Debug\net6.0
 C:\Users\eren.salihler\Desktop\projects\.NET CORE\ChangeNetwork\bin\Debug\net6.0\win-x64\mscorrc.dll
 C:\Users\eren.salihler\Desktop\projects\.NET CORE\ChangeNetwork\bin\Debug\net6.0\win-x64\msquic.dll
 C:\Users\eren.salihler\Desktop\projects\.NET CORE\ChangeNetwork\bin\Debug\net6.0\win-x64\ucrtbase.dll
+C:\Users\eren.salihler\Desktop\projects\.NET CORE\ChangeNetwork\obj\Debug\net6.0\win-x64\ChangeNetwork.csproj.AssemblyReference.cache
+C:\Users\eren.salihler\Desktop\projects\.NET CORE\ChangeNetwork\obj\Debug\net6.0\win-x64\ChangeNetwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eren.salihler\Desktop\projects\.NET CORE\ChangeNetwork\obj\Debug\net6.0\win-x64\ChangeNetwork.AssemblyInfoInputs.cache
+C:\Users\eren.salihler\Desktop\projects\.NET CORE\ChangeNetwork\obj\Debug\net6.0\win-x64\ChangeNetwork.AssemblyInfo.cs
+C:\Users\eren.salihler\Desktop\projects\.NET CORE\ChangeNetwork\obj\Debug\net6.0\win-x64\ChangeNetwork.csproj.CoreCompileInputs.cache
 C:\Users\eren.salihler\Desktop\projects\.NET CORE\ChangeNetwork\obj\Debug\net6.0\win-x64\ChangeNetwork.csproj.CopyComplete
 C:\Users\eren.salihler\Desktop\projects\.NET CORE\ChangeNetwork\obj\Debug\net6.0\win-x64\ChangeNetwork.dll
+C:\Users\eren.salihler\Desktop\projects\.NET CORE\ChangeNetwork\obj\Debug\net6.0\win-x64\refint\ChangeNetwork.dll
 C:\Users\eren.salihler\Desktop\projects\.NET CORE\ChangeNetwork\obj\Debug\net6.0\win-x64\ChangeNetwork.pdb
 C:\Users\eren.salihler\Desktop\projects\.NET CORE\ChangeNetwork\obj\Debug\net6.0\win-x64\ChangeNetwork.genruntimeconfig.cache
 C:\Users\eren.salihler\Desktop\projects\.NET CORE\ChangeNetwork\obj\Debug\net6.0\win-x64\ref\ChangeNetwork.dll
-C:\Users\eren.salihler\Desktop\projects\.NET CORE\ChangeNetwork\bin\Debug\net6.0\win-x64\ref\ChangeNetwork.dll
