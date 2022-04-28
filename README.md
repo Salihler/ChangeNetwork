@@ -10,7 +10,7 @@
 
 # StatusChanger
 
-A status changer for windows network adapters with VMI.
+A status changer for windows network adapters using Microsoft's WMI.
 
 ## Run Locally
 
