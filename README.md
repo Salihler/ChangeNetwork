@@ -35,9 +35,9 @@ Run program
 
 ## Deployment
 
-To deploy this project run
+To deploy this project run. WMI is only supports windows platforms.
 
 ```bash
-  dotnet publish -r win-x64 -o your-publish-directory
+  dotnet publish -r win-(version) -o (your-publish-directory)
 ```
 
