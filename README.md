@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
   <a href="">[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/Salihler/ChangeNetwork/blob/master/LICENSE)</a>
   <a href="">[![dotnet](https://img.shields.io/badge/dotnet-v6.0-blue)](https://github.com/dotnet/runtime)</a>
